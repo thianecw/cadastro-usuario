@@ -1,8 +1,21 @@
-# React + Vite
+<h1 align="center"> Cadastro de usuários</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esse projeto foi desenvolvido no módulo React 1 e utiliza front e back end interligados.  <br>
+O back end foi realizado no módulo de Node.js.
+<br>
 
-Currently, two official plugins are available:
+ ## Bibliotecas utilizadas
+- AXIOS  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologias utilizadas
+<br>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
+  </a>
+</p>
+
+## Versões
+Esse projeto foi inicialmente desenvolvido para desktop mas após aplicar os parametros de responsabilidade, foi possível torná-lo compatível com versões mobile.
+
+<img src="https://github.com/thianecw/cadastro-usuario/blob/main/src/assets/mockup.jpg" />
