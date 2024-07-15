@@ -5,6 +5,7 @@ O back end foi realizado no módulo de Node.js.
 <br>
 
  ## Bibliotecas utilizadas
+- REACT
 - AXIOS  
 
 ## Tecnologias utilizadas
