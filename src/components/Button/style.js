@@ -21,7 +21,7 @@ export const Button = styled.button`
     margin-top: 20px;
 
     @media (max-width: 490px) {
-margin-top: ${props => props.theme === 'primary' ? '0px' : '-30px'}
+margin-top: ${props => props.theme === 'primary' ? '0px' : '-20px'}
 }
 
     &:hover {
